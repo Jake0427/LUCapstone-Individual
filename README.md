@@ -42,6 +42,8 @@
   - to run the project in your browser, in that same command prompt type "ng s --o" (or ng serve --open).
   - This will open a tab in your default browser displaying the project.
 
+## Other Required Documentation
+
 ### Test Plan
   - To test this application, I will have 4 users sit down at the project source computer with the application opened.
   - Next step is to give them a list of tasks
