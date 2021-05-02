@@ -41,6 +41,48 @@
   - in the command prompt type "npm update" to update the packages necessary.
   - to run the project in your browser, in that same command prompt type "ng s --o" (or ng serve --open).
   - This will open a tab in your default browser displaying the project.
+
+### Test Plan
+  - To test this application, I will have 4 users sit down at the project source computer with the application opened.
+  - Next step is to give them a list of tasks
+    - This list of tasks include : Add a person, Update a person's information, and delete a person from the table
+  - success will be measured in the time it takes to complete each of these tasks and ease of use on a scale of 1-10
+
+### Test Plan Result
+  - USER 1: 
+    - Time to complete Add Person Function: 18 seconds
+    - Time to complete Edit Person Function: 19 seconds
+    - Time to complete Delete Person Function: 7 seconds
+    - Ease of use of add person button: 9/10
+    - Ease of use of edit person button: 8/10
+    - Ease of use of delete person button: 10/10
+  - USER 2
+    - Time to complete Add Person Function: 20 seconds
+    - Time to complete Edit Person Function: 20 seconds
+    - Time to complete Delete Person Function: 8 seconds
+    - Ease of use of add person button: 8/10
+    - Ease of use of edit person button: 8/10
+    - Ease of use of delete person button: 9/10
+  - USER 3
+    - Time to complete Add Person Function: 16 seconds
+    - Time to complete Edit Person Function: 17 seconds
+    - Time to complete Delete Person Function: 6 seconds
+    - Ease of use of add person button: 9/10
+    - Ease of use of edit person button: 9/10
+    - Ease of use of delete person button: 10/10
+  - USER 4
+    - Time to complete Add Person Function: 17 seconds
+    - Time to complete Edit Person Function: 20 seconds
+    - Time to complete Delete Person Function: 8 seconds
+    - Ease of use of add person button: 8/10
+    - Ease of use of edit person button: 7/10
+    - Ease of use of delete person button: 10/10
+
+### Test Plan Results Continued
+  - The results of the testing were fairly consistent and functionality was proven to be user friendly
+
+### Biblical integration
+  - this project was created to help prototype my team's main capstone project. That main capstone project is for an organization called Christian Aid. Their previous software was extremely slow and stopped them from doing the work that they do. Our task is to help fix that. The use of the internet is almost imperative in this day and age, and it is a great way to spread the Gospel, which is one of our main goals as Christians.
   
 ## For full connectivity, ensure the API is running before you start the angular project so the data from the database can load
   
