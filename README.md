@@ -31,13 +31,13 @@
   
 ### For the Angular Project
   - To view the project code, you will also need visual studio code. to install visual studio code, follow this link (https://code.visualstudio.com/download) and download and install the appropriate version.
-  - Once installed, navigate to the project folder in a command prompt (EX: cd C:\Users\\{Username}\Documents\GitHub\LUCapstone-Individual\CapstoneIndividualAngular).
+  - Once installed, navigate to the project folder in a command prompt (EX: cd C:\Users\\{Username}\Documents\GitHub\LUCapstone-Individual\LUCapstoneIndividualAngular).
   - type "code ." in the command prompt and it will launch visual studio code.
   - In order to run the project, you will need NPM installed on your machine.
   - To install NPM, follow this link (https://nodejs.org/en/).
   - Download the recommended version.
   - Double click the installer and follow the instructions.
-  - Open a command line and navigate to the project folder (EX: cd C:\Users\\{Username}\Documents\GitHub\LUCapstone-Individual\CapstoneIndividualAngular).
+  - Open a command line and navigate to the project folder (EX: cd C:\Users\\{Username}\Documents\GitHub\LUCapstone-Individual\LUCapstoneIndividualAngular).
   - in the command prompt type "npm update" to update the packages necessary.
   - to run the project in your browser, in that same command prompt type "ng s --o" (or ng serve --open).
   - This will open a tab in your default browser displaying the project.
